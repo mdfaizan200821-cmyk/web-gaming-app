@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Gamepad / Crown Icon Silhouette -->
+    <path
+        android:fillColor="#FFB800"
+        android:pathData="M34,42 C28,42 24,46 24,54 C24,64 29,70 34,70 C37,70 40,66 43,60 L48,60 C49,60 50,60 51,60 C52,60 53,60 54,60 C55,60 56,60 57,60 L62,60 C65,66 68,70 71,70 C76,70 81,64 81,54 C81,46 77,42 71,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,50 h4 v4 h-4 z M30,52 h8 v0 h-8 z M34,48 v8 h0 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,50 a3,3 0 1,1 0,6 a3,3 0 1,1 0,-6 Z M74,54 a3,3 0 1,1 0,6 a3,3 0 1,1 0,-6 Z" />
+</vector>

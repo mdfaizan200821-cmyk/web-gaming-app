@@ -1,0 +1,6 @@
+{
+  "name": "Web Gaming",
+  "description": "Full-featured web gaming app with Rummy, Chess, Ludo, Tic Tac Toe, Talking Cat, Candy Match, and Stickman Thief.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
